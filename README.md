@@ -105,6 +105,8 @@ Temporal Fluidity (TF)
 [Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 <br>
 [Spacetime Simulator](https://github.com/sourceduty/Spacetime_Simulator)
+<br>
+[Math](https://github.com/sourceduty/Math)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

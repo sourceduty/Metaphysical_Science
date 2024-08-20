@@ -1,6 +1,6 @@
 ![Metaphysical Science](https://github.com/user-attachments/assets/6e35ed51-3cc4-4d63-bcb2-8afa2a20f612)
 
-> Theoretical metaphysical science simulations.
+> Theoretical metaphysical science simulations. Simulate science beyond the observable universe.
 
 #
 

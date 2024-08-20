@@ -76,6 +76,16 @@ Interconnectedness: The layers are interconnected, meaning that changes in one l
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Quantum](https://github.com/sourceduty/Quantum)
+<br>
+[Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
+<br>
+[Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
+<br>
+[Space](https://github.com/sourceduty/Space)
+<br>
+[Mars](https://github.com/sourceduty/Mars)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

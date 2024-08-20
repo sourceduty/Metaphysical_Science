@@ -18,51 +18,51 @@ The concept of Multi-Layered Reality (MLR) refers to the idea that reality is co
 ```
 +------------------------------------------------------------+
 |                         Metaphysical/Spiritual Layer       |
-|  - Non-material, timeless                                   |
-|  - Interacts with cognitive and social layers               |
-|  - Can influence beliefs, ethics, and consciousness         |
+|  - Non-material, timeless                                  |
+|  - Interacts with cognitive and social layers              |
+|  - Can influence beliefs, ethics, and consciousness        |
 +------------------------------------------------------------+
                     ↑ (Influences beliefs, practices) ↓
 
 +------------------------------------------------------------+
 |                   Cognitive/Perceptual Layer               |
-|  - Subjective reality construction                          |
-|  - Influenced by sensory input, memory, and experiences     |
-|  - Affected by spiritual beliefs and social constructs      |
+|  - Subjective reality construction                         |
+|  - Influenced by sensory input, memory, and experiences    |
+|  - Affected by spiritual beliefs and social constructs     |
 +------------------------------------------------------------+
                     ↑ (Affects perception, decisions) ↓
 
 +------------------------------------------------------------+
-|                   Social/Constructed Reality Layer          |
-|  - Social norms, laws, cultural values                      |
-|  - Constructs that influence behavior and identity          |
-|  - Can be altered by technology, cognitive changes, and     |
-|    metaphysical beliefs                                     |
+|                   Social/Constructed Reality Layer         |
+|  - Social norms, laws, cultural values                     |
+|  - Constructs that influence behavior and identity         |
+|  - Can be altered by technology, cognitive changes, and    |
+|    metaphysical beliefs                                    |
 +------------------------------------------------------------+
                     ↑ (Shapes social behaviors) ↓
 
 +------------------------------------------------------------+
 |                     Virtual/Simulated Layer                |
-|  - Artificial environments, technology-driven               |
-|  - Governed by user-defined rules                           |
-|  - Influences cognitive perceptions and social norms        |
+|  - Artificial environments, technology-driven              |
+|  - Governed by user-defined rules                          |
+|  - Influences cognitive perceptions and social norms       |
 +------------------------------------------------------------+
                     ↑ (Interacts with reality) ↓
 
 +------------------------------------------------------------+
 |                       Physical Layer                       |
-|  - Observable, material world                               |
-|  - Governed by classical physics                            |
-|  - Interacts with quantum processes and is perceived through|
-|    the cognitive layer                                      |
+|  - Observable, material world                              |
+|  - Governed by classical physics                           |
+|  - Interacts with quantum processes and is perceived       | 
+|     through the cognitive layer the cognitive layer        |
 +------------------------------------------------------------+
                     ↑ (Physical basis) ↓
 
 +------------------------------------------------------------+
 |                         Quantum Layer                      |
-|  - Subatomic level, governed by quantum mechanics           |
-|  - Non-deterministic, influences physical reality           |
-|  - Linked to phenomena like entanglement, superposition     |
+|  - Subatomic level, governed by quantum mechanics          |
+|  - Non-deterministic, influences physical reality          |
+|  - Linked to phenomena like entanglement, superposition    |
 +------------------------------------------------------------+
 ```
 

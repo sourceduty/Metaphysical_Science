@@ -101,6 +101,8 @@ Temporal Fluidity (TF)
 [Space](https://github.com/sourceduty/Space)
 <br>
 [Mars](https://github.com/sourceduty/Mars)
+<br>
+[Physics Experiments](https://github.com/sourceduty/Physics_Experiments)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -111,6 +111,10 @@ Temporal Fluidity (TF)
 [Big Bang Simulator](https://github.com/sourceduty/Big_Bang_Simulator)
 <br>
 [Theoretical Ontology](https://github.com/sourceduty/Theoretical_Ontology)
+<br>
+[Theory]([Theoretical Ontology](https://github.com/sourceduty/Theory)
+<br>
+[Theoretical Modelling]([Theoretical Ontology](https://github.com/sourceduty/Theoretical_Modelling)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -108,7 +108,7 @@ Temporal Fluidity (TF)
 <br>
 [Math](https://github.com/sourceduty/Math)
 <br>
-[Big Bag Simulator](https://github.com/sourceduty/Big_Bang_Simulator)
+[Big Bang Simulator](https://github.com/sourceduty/Big_Bang_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

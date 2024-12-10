@@ -112,9 +112,9 @@ Temporal Fluidity (TF)
 <br>
 [Theoretical Ontology](https://github.com/sourceduty/Theoretical_Ontology)
 <br>
-[Theory]([Theoretical Ontology](https://github.com/sourceduty/Theory)
+[Theory](https://github.com/sourceduty/Theory)
 <br>
-[Theoretical Modelling]([Theoretical Ontology](https://github.com/sourceduty/Theoretical_Modelling)
+[Theoretical Modelling](https://github.com/sourceduty/Theoretical_Modelling)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
